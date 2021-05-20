@@ -1,0 +1,30 @@
+"c:\users\my pc\python\pythone.exe" E:/python/ball_fire_gun
+Enter the choice:fire
+Fire vs fire,this is draw
+Enter the choice:gun
+gun vs fire,you have lost this men
+Enter the choice:ball
+ball vs gun,you lost men
+Enter the choice:gun
+gun vs fire,you have lost this men
+Enter the choice:ball
+ball vs fire,you won men
+Enter the choice:fire
+fire vs ball,you have lost men
+Enter the choicde;gun
+gun vs fire,you have lost this men
+your totale score is:3
+youre score=your_score + 1
+elife z =='gun':
+print('fire vs gun,you won men')
+comp_score=comp_score + 1
+elife z=='fire':
+print ('fire vs fire,this is draw')
+draw=draw + 1
+if x=='gun':
+if z =='ball';
+print ('gun vs ball,you won men')
+your_score=your score + 1
+elife z=='gun':
+print (gun vs gun,this is draw')
+draw=draw + 1
